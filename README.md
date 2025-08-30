@@ -16,12 +16,21 @@ The folder named UEVAVD dataset contains one subfolder and one zip file. The for
 If you find this dataset helpful, please cite our paper whose bibtex is given as follows.
 
 @ARTICLE{10982158,
+
   author={Jiang, Xinhua and Liu, Tianpeng and Liu, Li and Liu, Zhen and Liu, Yongxiang},
+  
   journal={IEEE Robotics and Automation Letters}, 
+  
   title={UEVAVD: A Dataset for Developing UAV's Eye View Active Object Detection}, 
+  
   year={2025},
+  
   volume={10},
+  
   number={6},
+  
   pages={6272-6279},
+  
   keywords={Autonomous aerial vehicles;Object detection;Training;Air to ground communication;Deep reinforcement learning;Technological innovation;Stars;Observability;Information filters;Indoor environment;Active object detection;dataset for active vision;deep reinforcement learning;unmanned aerial vehicle},
+  
   doi={10.1109/LRA.2025.3566604}}

@@ -6,8 +6,8 @@ Goal:
 We release a new dataset, UEVAVD, aiming to promote the research on the UAV’s eye view AOD problem, whose aim is to find out how to better exploit the UAV’s autonomy and maneuverability to overcome difficulties like occlusion in UAV-based object detection.
 
 # Share link
-Download using 360 FangCloud
-https://v2.fangcloud.com/share/d26b898420a5f8eab1f6453480
+Download using Google drive
+https://drive.google.com/drive/folders/1JR3zMlDl5bqOXfIewI4OsE2cUFEsv8Bs?usp=drive_link
 
 Content:
 The folder named UEVAVD dataset contains one subfolder and one zip file. The former cover data from 151 scenes, which is stored in order. Each scene corresponds to a subfolder, including the multi-view images and their annoations (bounding boxes), and the images are named under the rule of "UAV's coordinates + target name +scene ID". Each 30 subfolders correspond to a single target. The "00" subfolder is the scene with absolute no occlusion. The zip file named "train_605" consists of crops from the multi-view images concerning five targets with no occlusion. They can be used for training the classifier.
